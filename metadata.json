@@ -1,0 +1,6 @@
+{
+  "name": "Reboot 30",
+  "description": "Premium personal discipline, daily progress, and 30-day habit challenge tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
